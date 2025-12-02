@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Life goes on",
+  "base_artist": "Dragon Ash",
+  "createdAt": "2025-12-02T20:53:39.138688Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Life Goes On",
+      "artist": "Little Texas",
+      "has_synced": true,
+      "path": "select/01_Life_Goes_On_Little_Texas.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Life Goes On (Album Version)",
+      "artist": "Little Texas",
+      "has_synced": true,
+      "path": "select/02_Life_Goes_On_(Album_Version)_Little_Texas.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Life Goes On",
+      "artist": "陈奕迅",
+      "has_synced": true,
+      "path": "select/03_Life_Goes_On_陈奕迅.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Life Goes On",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/04_Life_Goes_On_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Life Goes On",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/05_Life_Goes_On_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Life Goes On",
+      "artist": "Cook Laflare feat. Lil Yachty",
+      "has_synced": true,
+      "path": "select/06_Life_Goes_On_Cook_Laflare_feat._Lil_Yachty.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Life Goes On",
+      "artist": "Andy Taylor",
+      "has_synced": false,
+      "path": "select/07_Life_Goes_On_Andy_Taylor.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Life Goes On",
+      "artist": "Mr. Mister",
+      "has_synced": true,
+      "path": "select/08_Life_Goes_On_Mr._Mister.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Life Goes On",
+      "artist": "Nik Kershaw",
+      "has_synced": true,
+      "path": "select/09_Life_Goes_On_Nik_Kershaw.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Life Goes On",
+      "artist": "Sash!",
+      "has_synced": false,
+      "path": "select/10_Life_Goes_On_Sash!.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Life Goes On",
+      "artist": "Poison",
+      "has_synced": true,
+      "path": "select/11_Life_Goes_On_Poison.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Jukebox (Life Goes On)",
+      "artist": "The Summer Set",
+      "has_synced": true,
+      "path": "select/12_Jukebox_(Life_Goes_On)_The_Summer_Set.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Jukebox (Life Goes On)",
+      "artist": "The Summer Set",
+      "has_synced": false,
+      "path": "select/13_Jukebox_(Life_Goes_On)_The_Summer_Set.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Life Goes On",
+      "artist": "Elisa",
+      "has_synced": true,
+      "path": "select/14_Life_Goes_On_Elisa.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Una Poesia Anche Per Te (Life Goes On)",
+      "artist": "Elisa",
+      "has_synced": false,
+      "path": "select/15_Una_Poesia_Anche_Per_Te_(Life_Goes_On)_Elisa.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Life Goes On",
+      "artist": "Echo & The Bunnymen",
+      "has_synced": false,
+      "path": "select/16_Life_Goes_On_Echo_&_The_Bunnymen.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Life Goes On",
+      "artist": "The Damned",
+      "has_synced": false,
+      "path": "select/17_Life_Goes_On_The_Damned.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Life Goes On",
+      "artist": "The Kinks",
+      "has_synced": true,
+      "path": "select/18_Life_Goes_On_The_Kinks.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Life Goes On",
+      "artist": "The Sundays",
+      "has_synced": true,
+      "path": "select/19_Life_Goes_On_The_Sundays.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Life goes on",
+      "artist": "DragonAsh",
+      "has_synced": false,
+      "path": "select/pl_01_Life_goes_on_DragonAsh.txt"
+    }
+  ]
+}
